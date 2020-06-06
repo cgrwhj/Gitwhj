@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c9ba6c-f5d8-4775-ad62-32866e67d890" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/whj/whj534.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/whj/whj534.java" afterDir="false" />
     </list>
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/whj/whj534.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="152">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -54,8 +53,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="996" />
-    <option name="y" value="53" />
+    <option name="x" value="117" />
+    <option name="y" value="83" />
     <option name="width" value="1750" />
     <option name="height" value="963" />
   </component>
@@ -71,6 +70,17 @@
             <path>
               <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="whj" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,7 +197,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591440967034</updated>
-      <workItem from="1591440977308" duration="3012000" />
+      <workItem from="1591440977308" duration="3603000" />
     </task>
     <task id="LOCAL-00001" summary="12组人事管理系统">
       <created>1591443787822</created>
@@ -210,14 +220,35 @@
       <option name="project" value="LOCAL" />
       <updated>1591444141550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12组人事管理系统">
+      <created>1591444356614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591444356614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="12组人事管理系统">
+      <created>1591444516080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591444516080</updated>
+    </task>
+    <task id="LOCAL-00006" summary="12组人事管理系统">
+      <created>1591444705245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591444705245</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3012000" />
+    <option name="totallyTimeSpent" value="3603000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="0" width="1400" height="770" extended-state="0" />
+    <frame x="94" y="67" width="1400" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -265,8 +296,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/whj/whj534.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
