@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c9ba6c-f5d8-4775-ad62-32866e67d890" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/whj/whj534.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/whj/whj534.java" afterDir="false" />
     </list>
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/whj/whj534.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="76">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -53,7 +54,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
+    <option name="x" value="996" />
+    <option name="y" value="53" />
     <option name="width" value="1750" />
     <option name="height" value="963" />
   </component>
@@ -70,17 +72,6 @@
               <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gitwhj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gitwhj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whj" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -96,7 +87,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
@@ -187,7 +178,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\WUHAIJIANG\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -196,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591440967034</updated>
-      <workItem from="1591440977308" duration="2640000" />
+      <workItem from="1591440977308" duration="3012000" />
     </task>
     <task id="LOCAL-00001" summary="12组人事管理系统">
       <created>1591443787822</created>
@@ -205,14 +196,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591443787822</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="12组人事管理系统">
+      <created>1591443933551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591443933551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="12组人事管理系统">
+      <created>1591444141550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591444141550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2640000" />
+    <option name="totallyTimeSpent" value="3012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="126" width="1400" height="770" extended-state="0" />
+    <frame x="29" y="0" width="1400" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -221,8 +226,8 @@
       <window_info id="Favorites" sideWeight="0.5023148" side_tool="true" weight="0.24962743" />
       <window_info id="Capture Tool" />
       <window_info id="Web" sideWeight="0.5023148" side_tool="true" weight="0.24962743" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.24962743" />
-      <window_info id="Structure" order="1" sideWeight="0.5023148" side_tool="true" weight="0.24962743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" sideWeight="0.5015674" side_tool="true" weight="0.24962743" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -230,6 +235,7 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -259,8 +265,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/whj/whj534.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -275,7 +281,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -323,7 +328,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
