@@ -7,4 +7,5 @@ public class whj534 {
     int d;
     int r;
     int bb;
+    int sss;
 }
